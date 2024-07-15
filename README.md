@@ -1,4 +1,4 @@
-# npuzzle with A star algorithm (go back n)
+# UDP File Transfer System (go back n algorithm )
 
 A brief description of your project.
 
